@@ -1,3 +1,9 @@
+**VIT BHOPAL UNIVERSITY**
+***Course Faculty Name: Sasmita Padhy***
+***Slot: A11+A12+A13+D11+D12+A14***
+***Name: Nikita Bhardwaj***
+***Registration Number: 26MIM10044***
+
 # Student Result & Grade Management System
 
 ## Overview
